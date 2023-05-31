@@ -1,4 +1,4 @@
-# Web Scrapping con Python - Envio de notificacion de oferta a WhatsApp
+# Web Scrapping con Python - Envio de notificacion de oferta desde ecommerce hacia WhatsApp
 
 ## Developer 
 Ezequiel M. Tartaglia
